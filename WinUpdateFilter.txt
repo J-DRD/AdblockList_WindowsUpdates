@@ -1,0 +1,18 @@
+[AdBlocker Ultimate]
+! Version: 202210061330
+! Title: Windows Update Blocker
+! Last modified: 06 Oct 2022 13:30 UTC
+! Expires: 7 days (update frequency)
+! Homepage: https://adblockultimate.net/
+! About: https://adblockultimate.net/filters
+! License: https://adblockultimate.net/filters
+
+
+
+
+windowsupdate.microsoft.com
+update.microsoft.com
+windowsupdate.com
+download.windowsupdate.com
+wustat.windows.com
+ntservicepack.microsoft.com
